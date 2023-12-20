@@ -1,0 +1,469 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PCStore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PCStore.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\PC_Panda.png",
+      "PackagePath": "staticwebassets\\images\\PC_Panda.png"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product01.jpg",
+      "PackagePath": "staticwebassets\\images\\product01.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product02.jpg",
+      "PackagePath": "staticwebassets\\images\\product02.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product03.jpg",
+      "PackagePath": "staticwebassets\\images\\product03.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product04.jpg",
+      "PackagePath": "staticwebassets\\images\\product04.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product05.jpg",
+      "PackagePath": "staticwebassets\\images\\product05.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product06.jpg",
+      "PackagePath": "staticwebassets\\images\\product06.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product07.jpg",
+      "PackagePath": "staticwebassets\\images\\product07.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product08.jpg",
+      "PackagePath": "staticwebassets\\images\\product08.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product09.jpg",
+      "PackagePath": "staticwebassets\\images\\product09.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product10.jpg",
+      "PackagePath": "staticwebassets\\images\\product10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product11.jpg",
+      "PackagePath": "staticwebassets\\images\\product11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product12.jpg",
+      "PackagePath": "staticwebassets\\images\\product12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product13.jpg",
+      "PackagePath": "staticwebassets\\images\\product13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product14.jpg",
+      "PackagePath": "staticwebassets\\images\\product14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product15.jpg",
+      "PackagePath": "staticwebassets\\images\\product15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product16.jpg",
+      "PackagePath": "staticwebassets\\images\\product16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product17.jpg",
+      "PackagePath": "staticwebassets\\images\\product17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product18.jpg",
+      "PackagePath": "staticwebassets\\images\\product18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product19.jpg",
+      "PackagePath": "staticwebassets\\images\\product19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product20.jpg",
+      "PackagePath": "staticwebassets\\images\\product20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product21.jpg",
+      "PackagePath": "staticwebassets\\images\\product21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product22.jpg",
+      "PackagePath": "staticwebassets\\images\\product22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product23.jpg",
+      "PackagePath": "staticwebassets\\images\\product23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product24.jpg",
+      "PackagePath": "staticwebassets\\images\\product24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product25.jpg",
+      "PackagePath": "staticwebassets\\images\\product25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product26.jpg",
+      "PackagePath": "staticwebassets\\images\\product26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product27.jpg",
+      "PackagePath": "staticwebassets\\images\\product27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product28.jpg",
+      "PackagePath": "staticwebassets\\images\\product28.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product29.jpg",
+      "PackagePath": "staticwebassets\\images\\product29.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product30.jpg",
+      "PackagePath": "staticwebassets\\images\\product30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product31.jpg",
+      "PackagePath": "staticwebassets\\images\\product31.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product32.jpg",
+      "PackagePath": "staticwebassets\\images\\product32.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product33.jpg",
+      "PackagePath": "staticwebassets\\images\\product33.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product34.jpg",
+      "PackagePath": "staticwebassets\\images\\product34.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product35.jpg",
+      "PackagePath": "staticwebassets\\images\\product35.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product36.jpg",
+      "PackagePath": "staticwebassets\\images\\product36.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product37.jpg",
+      "PackagePath": "staticwebassets\\images\\product37.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product38.jpg",
+      "PackagePath": "staticwebassets\\images\\product38.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product39.jpg",
+      "PackagePath": "staticwebassets\\images\\product39.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product40.jpg",
+      "PackagePath": "staticwebassets\\images\\product40.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product41.jpg",
+      "PackagePath": "staticwebassets\\images\\product41.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product42.jpg",
+      "PackagePath": "staticwebassets\\images\\product42.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product43.jpg",
+      "PackagePath": "staticwebassets\\images\\product43.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product44.jpg",
+      "PackagePath": "staticwebassets\\images\\product44.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product45.jpg",
+      "PackagePath": "staticwebassets\\images\\product45.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product46.jpg",
+      "PackagePath": "staticwebassets\\images\\product46.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product47.jpg",
+      "PackagePath": "staticwebassets\\images\\product47.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product48.jpg",
+      "PackagePath": "staticwebassets\\images\\product48.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product49.jpg",
+      "PackagePath": "staticwebassets\\images\\product49.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\images\\product50.jpg",
+      "PackagePath": "staticwebassets\\images\\product50.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Grant\\Desktop\\AWD1115\\Final-Project-Grant-Descher\\Final-Project-Grant-Descher\\PCStore\\PCStore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PCStore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PCStore.props",
+      "PackagePath": "build\\PCStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PCStore.props",
+      "PackagePath": "buildMultiTargeting\\PCStore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PCStore.props",
+      "PackagePath": "buildTransitive\\PCStore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

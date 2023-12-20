@@ -1,0 +1,40 @@
+﻿@model ProductListViewModel
+
+<h1>@Model.CurrentCategory</h1>
+
+<div class="row h-50">
+	@foreach (var product in Model.Products)
+	{
+		<partial name="_productCard" model="product" />
+	}
+</div>
+
+@* <div class="row h-50">
+	@foreach (var product in Model.Products)
+	{
+		<div class="col-3 m-2">
+			<div class="card">
+				<img class="card-img-top" alt="@product.ProductName" src="@product.ProductImageThumbnailURL" />
+				<div class="card-body">
+					<a asp-controller="Product" asp-action="Details" asp-route-id="@product.ProductId"><h3>@product.ProductName</h3></a>
+					<h3>@product.ProductPrice.ToString("c")</h3>
+					<p>@product.ProductDescription</p>
+				</div>
+				<div class="addToCart">
+					<p class="button">
+						<a class="btn btn-primary" asp-controller="ShoppingCart" asp-action="AddToShoppingCart" asp-route-productId="@Model.ProductId">Add to Cart</a>
+					</p>
+				</div>
+			</div>
+
+@* 			<div class="thumbnail">
+				<img class="" src="@product.ProductImageThumbnailURL" alt="Product Image" />
+				<div class="caption">
+					<a asp-controller="Product" asp-action="Details" asp-route-id="@product.ProductId"><h3>@product.ProductName</h3></a>
+					<h3>@product.ProductPrice.ToString("c")</h3>
+					<p>@product.ProductDescription</p>
+				</div>
+			</div> 
+		</div>
+	}
+</div>*@
